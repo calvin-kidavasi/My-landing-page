@@ -15,7 +15,7 @@
 *{} **{List of contributors or company name}**
  MIT License
 
-Copyright (c) [year] [calvin sabatia kidavasi]
+Copyright (c) [2022] [calvin sabatia kidavasi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
