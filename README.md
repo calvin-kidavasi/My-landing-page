@@ -1,18 +1,18 @@
-# My-landing-page# {My landing page}
-#### {My first website portfolio}, {25 Feb 2022}
-#### By **{calvin Kidavasi}**
+# My-landing-page# My landing page
+#### My first website portfolio, 25 Feb 2022
+#### By **calvin Kidavasi**
 ## Description
-{For the purpose of marketing my projects. }
+For the purpose of marketing my projects. 
 ## Setup/Installation Requirements
-{No installation needed}
+No installation needed
 ## Known Bugs
-{No known bugs }
+No known bugs 
 ## Technologies Used
-{html, css.}
+html, css.
 ## Support and contact details
-{calvin.kidavasi.moringaschool.com}
+calvin.kidavasi.moringaschool.com
 ### License
-*{} **{List of contributors or company name}**
+***{List of contributors or company name}**
  MIT License
 
 Copyright (c) [2022] [calvin sabatia kidavasi]
